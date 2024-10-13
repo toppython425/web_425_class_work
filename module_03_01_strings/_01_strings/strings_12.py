@@ -1,0 +1,6 @@
+my_num = int(input("Введите ваше число: "))
+print("Двоичное представление числа {num} это {num:b}".format(num=my_num))
+print("Восьмеричное представление числа {num} это {num:o}".format(num=my_num))
+print("Десятичное представление числа {num} это {num:d}".format(num=my_num))
+print("Шестнадцатеричное представление числа {num} это {num:x}".format(num=my_num))
+print("Юникод представление числа {num} это {num:c}".format(num=my_num))
