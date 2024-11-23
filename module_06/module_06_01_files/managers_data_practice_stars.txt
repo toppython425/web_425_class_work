@@ -1,0 +1,8 @@
+ТоддГовард,
+Bethesda,
+Microsoft,
+ДжонКармак,
+IDSoftware,
+Microsoft,
+ЛизаСу,
+AMD
