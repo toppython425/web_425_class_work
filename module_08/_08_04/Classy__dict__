@@ -1,0 +1,6 @@
+{'var': 2}
+{'__module__': '__main__', 'varia': 1, '__init__': <function Classy.__init__ at 0x00000226BEDF9F80>,
+'method': <function Classy.method at 0x00000226BEE57C40>,
+'_Classy__hidden': <function Classy.__hidden at 0x00000226BEE57CE0>,
+'__dict__': <attribute '__dict__' of 'Classy' objects>,
+'__weakref__': <attribute '__weakref__' of 'Classy' objects>, '__doc__': None}
