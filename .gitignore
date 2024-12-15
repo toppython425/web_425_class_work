@@ -3,3 +3,6 @@ venv/
 __pycache__/
 *.pyc
 .env
+.coverage
+*.rar
+module_06/module_06_02_json/english_quiz/students_data/Петр_answers.json
