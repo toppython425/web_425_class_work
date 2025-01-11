@@ -1,0 +1,9 @@
+{
+  "name": "Франц",
+  "age": 3,
+  "gender": "Самец",
+  "ClassName": "MyCat",
+  "Methods": [
+    "Many Methods"
+  ]
+}
