@@ -37,8 +37,8 @@ def unpikle_object(filename):
 
 class JSONDataAdapter:
 
-    @staticmethod
-    def to_json(obj):
+    @classmethod
+    def to_json(cls, obj):
         if isinstance(obj, Airplane):
             return json.dumps({
                 'model': obj.get_model(),
@@ -55,8 +55,8 @@ class JSONDataAdapter:
                 }
             }, ensure_ascii=False, indent=2)
 
-    @staticmethod
-    def from_json(obj):
+    @classmethod
+    def from_json(cls, obj):
         obj = json.loads(obj)
 
         try:
